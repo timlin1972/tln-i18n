@@ -1,0 +1,26 @@
+{
+  "name": "tln-i18n",
+  "version": "1.0.0",
+  "description": "i18n",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timlin1972/tln-i18n.git"
+  },
+  "keywords": [
+    "i18n",
+    "tln"
+  ],
+  "author": "Tim Lin <timlin1972@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timlin1972/tln-i18n/issues"
+  },
+  "homepage": "https://github.com/timlin1972/tln-i18n#readme",
+  "dependencies": {
+    "i18next": "^19.8.4"
+  }
+}
