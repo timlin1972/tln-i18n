@@ -45,7 +45,7 @@ class I18n {
 
   toString = () => `[${MODULE_NAME}]\n\
     \tlogger: ${this.logger ? 'yes' : 'no'}\n\
-    \tlang: ${this.lang}\n\
+    \tlng: ${this.lng}\n\
     \tdebug: ${this.debug}\n\
     \tresources: ${this.resources ? 'yes' : 'no'}\n\
     `;
